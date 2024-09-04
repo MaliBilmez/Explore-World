@@ -325,3 +325,10 @@ main {
 .locations:hover img{
   display: block;
 }
+
+.original-link{
+  background-color: #F25E54;
+  font-family: "Righteous", system-ui;
+  border: 2px solid white;
+  padding: 12px 32px;
+}
