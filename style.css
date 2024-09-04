@@ -84,6 +84,10 @@ main {
   color: #130377;
 }
 
+.effect{
+  transition: 0.3s;
+}
+
 .share {
   width: 33px;
   height: 33px;
@@ -99,6 +103,12 @@ main {
   border: 2px solid white;
   cursor: pointer;
   color: white;
+}
+
+.effect:hover{
+  background-color: #56BAB7;
+  padding: 0 15px;
+  border-radius: 5px;
 }
 
 /* ---------------------------------- */
